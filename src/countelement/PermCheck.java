@@ -21,4 +21,3 @@ public class PermCheck {
         return result;
     }
 }
-1
